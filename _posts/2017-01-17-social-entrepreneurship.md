@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Social Entrepreneurship-Framework and Definition
+title: Social Entrepreneurship01
 
 ---
 Today I went to the first class of social entrepreneurship.  And the takeaways are:
