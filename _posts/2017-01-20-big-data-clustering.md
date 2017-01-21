@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Notes-structural Discover
+title: Learning Notes-Structural Discovery
 
 ---
 
