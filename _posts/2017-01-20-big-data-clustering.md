@@ -1,6 +1,7 @@
 ---
-layout:post
-title:Learning Notes-structural Discovery
+layout: post
+title: Learning Notes-structural Discover
+
 ---
 
 Unlike predictive analysis, structural discovery is to find the patterns of data.
