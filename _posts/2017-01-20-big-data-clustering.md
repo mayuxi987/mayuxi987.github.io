@@ -2,7 +2,7 @@
 published: true
 ---
 
-## Structural Discovery
+## Learning Notes: Structural Discovery
 Unlike predictive analysis, structural discovery is to find the patterns of data.
 
 ### K-means
@@ -36,13 +36,17 @@ Unlike predictive analysis, structural discovery is to find the patterns of data
     + explicity treating points as outliers 
 2. Spetral Clustering
 3. Hierachical Clustering -> Hierachical Agglommerative Clustering
-  + each data point starts as a cluster
-  + two clusters are combined if the fit is better
-  + continue until no more cluters can be combined
-  
+   + each data point starts as a cluster
+   + two clusters are combined if the fit is better
+   + continue until no more cluters can be combined
+   
 ### factor analysis 
+- **procedures**
 
-- find how data features/variables together
+
+- **notes**
+  1. Unlike clustering that groups data points together, factor analysis finds how group data features/variables together.(two problems can be trasformative, but not the same)
+  2. the procedures deal with quantative variables, there is also a variant for categorical and binary data, **Latent Class Factor Analysis (LCFA --Magidson & Vermunt, 2001; Vermunt & Magidson,2004)**, as well as a variant for mixed data types, **Exponential Family Principal Component Analysis (EPCA – Collins et al., 2001)** 
 
 ### questions
 
@@ -50,3 +54,6 @@ Unlike predictive analysis, structural discovery is to find the patterns of data
 - what is model calcuation? ( Expectation Maximization Algorithm)
 - what is non-linear dimension-reduced space? what is dimensionality reduction? (spetral clustering)
 - what is a support vector machine? ( spetral clustering)
+
+
+Baker, R.S. (2015) Big Data and Education. 2nd Edition. New York, NY: Teachers College, Columbia University.
