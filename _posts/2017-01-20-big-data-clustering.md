@@ -54,21 +54,21 @@ Unlike predictive analysis, structural discovery is to find the patterns of data
   + confirmatory: test the goodness of existing structure, more psychometric
 - **procedures**
   + algorithms: PAF(principal axis factoring), PCA(principal components analysis,more common)
-   + first factor tries to find a combinition of variable-weightings that gets the best fit to the data
-   + the second tries to fit the remaining unexplained variance....
-   + factors are made ortogonal.
+    + first factor tries to find a combinition of variable-weightings that gets the best fit to the data
+    + the second tries to fit the remaining unexplained variance....
+    + factors are made ortogonal.
   + computer a factor score ( each factor can generate a linear euqation)
   + find variables strongly load on each factors(e.g, F1) and get the loading - many criteria 
   + generate one-factor-per-variable(scale) models by iteratively 
-   - assigning each item to factors
-   - dropping the one item that loads most poorly in one factor, if it has no strong loading (if every variable is strong loading, best!)
-   - refitting factors 
+    - assigning each item to factors
+    - dropping the one item that loads most poorly in one factor, if it has no strong loading (if every variable is strong loading, best!)
+    - refitting factors 
    
   
 - **key concepts**
   + goodness: 
-   - rsquare( what propotion of the variance in the variables is explained by the factoring)
-   - cross-validated rsquare
+    - rsquare( what propotion of the variance in the variables is explained by the factoring)
+    - cross-validated rsquare
   + internal reliability of scales ( cronbach's α)
 
 - **notes**
