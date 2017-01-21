@@ -1,8 +1,8 @@
 ---
-published: true
+layout: post
+title: Learning Notes: Structural Discovery
 ---
 
-# Learning Notes: Structural Discovery
 Unlike predictive analysis, structural discovery is to find the patterns of data.
 
 ## K-means
