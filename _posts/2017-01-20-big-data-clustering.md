@@ -39,8 +39,8 @@ Unlike predictive analysis, structural discovery is to find the patterns of data
    - Used during model calculation
    - Assess with distortion, AIC/Bic,  and **likelihood**
    - difference from K-means
-    + clusters can overlap 
-    + explicity treating points as outliers 
+     + clusters can overlap 
+     + explicity treating points as outliers 
    + **key concepts** : cluster size, centroid, radius, distortion, BiC/AIC, likelihood
 2. Spetral Clustering
 3. Hierachical Clustering -> Hierachical Agglommerative Clustering
