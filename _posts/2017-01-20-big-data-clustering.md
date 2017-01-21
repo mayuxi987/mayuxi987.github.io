@@ -35,10 +35,10 @@ Unlike predictive analysis, structural discovery is to find the patterns of data
 ## advanced clustering algorithms
 
 1. Gaussian Mixture Models - Expectation Maximization Algorithm
-   + a centroid and a **radius** ( threshold)
-   + Used during model calculation
-   + Assess with distortion, AIC/Bic,  and **likelihood**
-   + difference from K-means
+   - a centroid and a **radius** ( threshold)
+   - Used during model calculation
+   - Assess with distortion, AIC/Bic,  and **likelihood**
+   - difference from K-means
     + clusters can overlap 
     + explicity treating points as outliers 
    + **key concepts** : cluster size, centroid, radius, distortion, BiC/AIC, likelihood
