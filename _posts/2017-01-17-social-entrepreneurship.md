@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Social Entrepreneurship01
-
+title: Social Entrepreneurship-Framework
+published: true
 ---
 Today I went to the first class of social entrepreneurship.  And the takeaways are:
 
@@ -24,4 +24,4 @@ Further questions regarding this field:
 
 + According to Peter Frumkin, the social enterprise is something between traiditonal full-profit ltds and non-profit organizations in reference to different characteristics. But is it a continuum（then use the charcateristics of previous organizations are enough to describe)? Or is it a totally different thing which may not be put in between(possess new characteristics that is rarely considered in previous organizations)? 
 
-The course may provide me with an idea of how to assess organizations( either business companies or non-profit organizatins), what I should look at. 
+The course may provide me with an idea of how to assess organizations( either business companies or non-profit organizatins), what I should look at.
