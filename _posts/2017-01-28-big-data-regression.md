@@ -30,6 +30,6 @@ When the regressors in the model are not independent, we need to be more careful
 
 ### regression trees 
 
-- non-linear (RepTree)
-- linear (M5 prime, M5')
+- non-linear (RepTree) : if x> 4, y=5, else if y=2
+- linear (M5 prime, M5') : if x>4, y=2A+B, else if y=3A+3B
 
