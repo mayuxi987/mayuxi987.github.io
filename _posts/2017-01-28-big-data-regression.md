@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Prediction Model: Regression
@@ -25,6 +26,7 @@ title: Prediction Model: Regression
 ### caveat (warning)
  
 a regression model: y = 4 + 2*x - 0.1x^2
+
 In this case, it does not mean that x^2 is negatively correlated with y. We need to think it in a big picture, in this case, it means that when including x in the model, the relationship between x^2 and y becames negative. 
 
 When the regressors in the model are not independent, we need to be more careful. 
