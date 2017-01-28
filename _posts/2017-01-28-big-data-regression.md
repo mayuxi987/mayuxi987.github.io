@@ -1,7 +1,8 @@
 ---
-published: false
+layout: post
+title: Prediction Model: Regression
+
 ---
-## prediction models: regression 
 
 ### Usage of Prediction Models
 
