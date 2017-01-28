@@ -28,5 +28,8 @@ In this case, it does not mean that x^2 is negatively correlated with y. We need
 
 When the regressors in the model are not independent, we need to be more careful. 
 
+### regression trees 
 
+- non-linear (RepTree)
+- linear (M5 prime, M5')
 
