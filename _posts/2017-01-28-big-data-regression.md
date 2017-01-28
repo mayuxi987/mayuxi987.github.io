@@ -3,6 +3,8 @@ layout: post
 title: Prediction Model- Regression
 
 ---
+The post is a preview for week 2 educational data mining class. Regression analysis itself covers more things and requires more effort to learn. 
+
 
 ### Usage of Prediction Models
 
