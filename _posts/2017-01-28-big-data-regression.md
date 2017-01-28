@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: Prediction Model: Regression
+title: Prediction Model- Regression
 
 ---
 
