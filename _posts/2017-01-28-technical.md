@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 技术日志
+published: true
 ---
 为了监督个人的学习进步，本文档的建立用以记录科技学习中（包括建立网站、学习数据科学、计算机科学）的技术问题的解决：
 
@@ -34,3 +35,7 @@ title: 技术日志
 
 **01/28/17 利用disqus给博客增加评论功能**
 
+**02/02/17 利用R解决提出单行重复值的问题，生成了Peer Affiliation Coding的最终版**
+
+- 利用unique()函数将data.frame变为matrix，然后重新生成新的matrix
+- 另外，学习到了apply函数的用法，即不需要管数据类型（either matrix or data.frame），将函数用于数据结构中的单个元素上。
