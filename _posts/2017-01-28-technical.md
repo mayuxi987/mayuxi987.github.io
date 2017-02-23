@@ -39,3 +39,9 @@ published: true
 
 - 利用unique()函数将data.frame变为matrix，然后重新生成新的matrix
 - 另外，学习到了apply函数的用法，即不需要管数据类型（either matrix or data.frame），将函数用于数据结构中的单个元素上。
+
+**02/20/17 利用JAVA成功运行A'程序** 
+
+- 在电脑上安装JDK 8,添加环境变量。
+- 利用CMD运行JAVA代码，生成Class，然后依照A'程序指示运行得到A’。
+- 意识到JAVA跨平台语言的含义，即了解到常用eclipse作为JAVA的集成环境（integrated development envrionment)
