@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《研究设计：定性、定量和混合方法》文献阅读
-
+published: true
 ---
 
 Creswell(2003)关于文献阅读的策略对我而言很受用，之前也一直在探索如何进行文献检索以及文献整理（尤为重要），但总不得要领，要么怀着一种憧憬的心情对每篇文献都高山仰止，所以无限制地扩大自己搜索的边界和数量，最后面对一大堆文献有种半辈子都看不完的感觉；要么只着眼于眼前的一个小主题，abstract一读就没剩下几篇相关的，产生一种好像登顶知识山峰一览纵山小的错觉。且每每阅读时，要么太细，要么太泛，最后整理时有点不知所措。文献检索要到什么程度？阅读文献时采用哪种策略更有效？如何将文献与自己的研究关联起来？如何进行文献整理？Creswell(2003)的建议可以作为参考。
@@ -22,4 +22,4 @@ Creswell(2003)关于文献阅读的策略对我而言很受用，之前也一直
 如果是初入这个领域，百科全书(encyclopedias)、领域综述(annual review of psychology)> 同行评审的实证文献（有假设检验、数据分析的这种研究文献，另一种文献是理论文献）>书籍（专题论文、与主题相关的书籍、或者手册（handbook））>最新的会议文章（了解进展，联系询问是否可能分享工具）> 博士毕业论文（Dissertation）
 
 ### 文献地图
-![literature map.png]({{site.baseurl}}/images/literature map.png)
+![]({{site.baseurl}}/https://github.com/mayuxi987/mayuxi987.github.io/blob/master/images/literature%20map.png)
