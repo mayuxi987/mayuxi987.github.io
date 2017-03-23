@@ -76,9 +76,7 @@ Remember that
 -  QUAL RQs generally ask “how” or “what” and use exploratory verbs.
 -  QUANT RQs “inquire about the relationships among variables” (Creswell, p. 143)
 -  QUANT HYPOTHESES “are predictions…about the expected outcomes of relationships among variables” (Creswell, p. 143).
-
-   * And, in general, for QUANT strands of a MM study, we write only RQs or Hypotheses, not both.
-   
+   * And, in general, for QUANT strands of a MM study, we write only RQs or Hypotheses, not both.   
 -  MM RQs “directly address the mixing of the QUANT and QUAL strands of the research.” (Creswell, p. 149) You can think of these as “hybrid” or “integrated” questions. (See Creswell, pp 148-151 for details.)
 
 
