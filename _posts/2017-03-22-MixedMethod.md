@@ -42,5 +42,7 @@ In mixed method research, one thing is worth noticing is that they tend to have 
 
 Here are a few suggestions relevant to research implementation:
 
-1. 
+1. In the interview part, sometimes you will reach the saturation, which means that further interviews may not give you new information. Thus, try to keep the awareness when conducting focus groups, which may save a lot of time. Also be aware of the sample size. 
+
+2. For quantitative researches, researchers may want to generalize their results to the population. However, qualitative researchers may not intend to generalize but to make meaning of the results and provide possible explanations, which may be** transferable to the certain contexts(e.g., developing Asian countries undergoing socia change). **
 
