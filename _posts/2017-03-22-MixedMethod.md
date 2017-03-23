@@ -38,7 +38,7 @@ Note: I am planning to conduct surveys to collect information regarding the adol
 
 In this case, research questions of two strand match each other and can provide the full story. 
 
-In mixed method research, one thing is worth noticing is that they tend to have **different sample size** as qualitative method tends to be time-consuming and labor-intensive. Thus, after getting the results of two parts, **we cannot simply merge them togeter**. If we are going to write a paper, in the discussion part, one of the most important thing to do is to link the qualitativ and quantitative results together. Also remember to use the relevant theories or findings from existing literature. 
+In mixed method research, one thing is worth noticing is that they tend to have **different sample size** as qualitative method tends to be time-consuming and labor-intensive. Thus, after getting the results of two parts, **we cannot simply merge them togeter**. If we are going to write a paper, in the discussion part, one of the most important thing to do is to link the qualitativ and quantitative results together. Also remember to use the relevant theories or findings from existing literature. Thus, when it comes to analysis, we must give a clear description of data-collection(e.g., randomized selecction) in case we cannot use all of collected data. 
 
 Here are a few suggestions relevant to research implementation:
 
@@ -50,4 +50,9 @@ Here are a few suggestions relevant to research implementation:
 
 4. Focus groups may be better than individual interviews, which may give positive peer pressure and release the negative pressure. 
 
-5. Because of the complexity in China's 
+5. Because of the complexity of administration division in China (many government levels), researchers may operationlize rural areas/urban areas based on some reasonable criteria (singular.criterion), for example, income-level.  
+http://blog.sciencenet.cn/blog-223428-626908.html
+
+6. Be clear about the recurring themes in the research, in this study, e.g., urbanization, industrilization, self-concept, identity. Be alert. 
+
+7. According to the common sense, qualitative research is more about theory-generating while quantitative is about theory-testing. 
