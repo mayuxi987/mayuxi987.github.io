@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to conduct a mixed-method (Stage1)
+published: true
 ---
 
 **Title:**
@@ -51,7 +52,7 @@ Here are a few suggestions relevant to research implementation:
 4. Focus groups may be better than individual interviews, which may give positive peer pressure and release the negative pressure. 
 
 5. Because of the complexity of administration division in China (many government levels), researchers may operationlize rural areas/urban areas based on some reasonable criteria (singular.criterion), for example, income-level.  
-http://blog.sciencenet.cn/blog-223428-626908.html
+[http://blog.sciencenet.cn/blog-223428-626908.html](http://blog.sciencenet.cn/blog-223428-626908.html)
 
 6. Be clear about the recurring themes in the research, in this study, e.g., urbanization, industrilization, self-concept, identity. Be alert. 
 
@@ -78,6 +79,3 @@ Remember that
 -  QUANT HYPOTHESES “are predictions…about the expected outcomes of relationships among variables” (Creswell, p. 143).
    * And, in general, for QUANT strands of a MM study, we write only RQs or Hypotheses, not both.   
 -  MM RQs “directly address the mixing of the QUANT and QUAL strands of the research.” (Creswell, p. 149) You can think of these as “hybrid” or “integrated” questions. (See Creswell, pp 148-151 for details.)
-
-
-
