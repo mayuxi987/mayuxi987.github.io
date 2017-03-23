@@ -67,7 +67,6 @@ For this assignment, please include:
 
  
 - Next, based on your title and purpose, please include your research questions.
-
   * You should have at least one central QUAL RQ (exploring the central phenomenon of a study), as well as some associated sub-questions.(1 point)
   * You should have at least one QUANT RQ or HYPOTHESIS. (1 point)
   * And you should have at least one MM RQ (1 point)
