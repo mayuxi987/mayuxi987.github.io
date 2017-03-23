@@ -46,4 +46,8 @@ Here are a few suggestions relevant to research implementation:
 
 2. For quantitative researches, researchers may want to generalize their results to the population. However, qualitative researchers may not intend to generalize but to make meaning of the results and provide possible explanations, which may be** transferable to the certain contexts(e.g., developing Asian countries undergoing socia change). **
 
-3. Regarding how to engage in the contexts and conduct participatory researches, give students choices and motivate them with rewards (e.g., snacks, gifts). The most important thing to keep in mind is that participants are experts and the researchers are the people who want to know how those experts think. 
+3. Regarding how to engage in the contexts and conduct participatory researches, give students choices and motivate them with rewards (e.g., snacks, gifts). The most important thing to keep in mind is that participants are experts and the researchers are the people who want to know how those experts think **(mitigate the power position)**. Remember no one makes them do that ( this rationale may be easily forgotten, especially in China)
+
+4. Focus groups may be better than individual interviews, which may give positive peer pressure and release the negative pressure. 
+
+5. Because of the complexity in China's 
