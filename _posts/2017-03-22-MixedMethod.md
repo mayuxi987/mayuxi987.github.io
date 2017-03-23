@@ -1,7 +1,7 @@
 ---
-published: false
+layout: post
+title: How to conduct a mixed-method (Stage1)
 ---
-## A New Post
 
 **Title:**
 Discovering adolescents' self-concept and the factors that influence them in China 
