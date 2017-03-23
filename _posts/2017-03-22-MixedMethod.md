@@ -9,7 +9,7 @@ Discovering adolescents' self-concept and the factors that influence them in Chi
 **Research Topic:**
 I am interested in exploring how rapid  social change influences the  adolescents’ self-concept , which can be defined as how individuals perceive themselves. I am motivated to study the topic because I have witnessed enormous social change in China during my development, which makes me curious about how these macro-level social changes along with the introduction of western cultural values lead to micro-level changes. 
 
-**Mixed Method: **
+**Mixed Method:**
 How does social change influence adolescents’ self-concept in China?
 
 **Qualitative:**
@@ -26,7 +26,7 @@ Note: I am considering to use the Twenty-Statement-Test to examine the self-conc
 In this qualitative part, I can collect the information about the possible different patterns and the possible reasons. 
 
 
-**Quantitative: **
+**Quantitative:**
 
 -  Do the self-concepts of adolescents from urban and rural areas differ? (quantitative scale)
 -  What are the sociocultural factors(e.g., usage of technology, time distribution) that influence  adolescents’ self concepts? 
@@ -67,17 +67,18 @@ For this assignment, please include:
 
  
 - Next, based on your title and purpose, please include your research questions.
-o You should have at least one central QUAL RQ (exploring the central phenomenon of a study), as well as some associated sub-questions.
+
+  * You should have at least one central QUAL RQ (exploring the central phenomenon of a study), as well as some associated sub-questions.
 (1 point)
-o You should have at least one QUANT RQ or HYPOTHESIS. (1 point)
-o And you should have at least one MM RQ (1 point)
+  * You should have at least one QUANT RQ or HYPOTHESIS. (1 point)
+  * And you should have at least one MM RQ (1 point)
  
 Remember that
 
 -  QUAL RQs generally ask “how” or “what” and use exploratory verbs.
 -  QUANT RQs “inquire about the relationships among variables” (Creswell, p. 143)
 -  QUANT HYPOTHESES “are predictions…about the expected outcomes of relationships among variables” (Creswell, p. 143).
-o  And, in general, for QUANT strands of a MM study, we write only RQs or Hypotheses, not both.
+   * And, in general, for QUANT strands of a MM study, we write only RQs or Hypotheses, not both.
 -  MM RQs “directly address the mixing of the QUANT and QUAL strands of the research.” (Creswell, p. 149) You can think of these as “hybrid” or “integrated” questions. (See Creswell, pp 148-151 for details.)
 
 
