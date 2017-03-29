@@ -58,6 +58,8 @@ Here are a few suggestions relevant to research implementation:
 
 7. According to the common sense, qualitative research is more about theory-generating while quantitative is about theory-testing. 
 
+8. In the interview session, I can also add another option to collect their willings to do further interview.
+
 ----
 
 For this assignment, please include:
