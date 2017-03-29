@@ -45,8 +45,9 @@ published: true
 - 在电脑上安装JDK 8,添加环境变量。
 - 利用CMD运行JAVA代码，生成Class，然后依照A'程序指示运行得到A’。
 - 意识到JAVA跨平台语言的含义，即了解到常用eclipse作为JAVA的集成环境（integrated development envrionment)
+- compile java file using "javac name.java", run using "java name"
 
 **03/03/2017 利用R解决了peer group identification的问题，帮助拥有多重组别的学生迅速定位主要组别**
 
 - 利用subset()和duplicate()实现matrix之间的数据选择
-- 比较两个vector之间是否存在相同的值，利用 %in% operator，返回逻辑值 
+- 比较两个vector之间是否存在相同的值，利用 %in% operator，返回逻辑值
