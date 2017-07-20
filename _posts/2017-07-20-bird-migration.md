@@ -3,7 +3,7 @@ layout: post
 title: How climate extremes influence migration phenology?
 publish: true
 ---
-[Migratory Birds]({{ site.url }}/images/migratory-birds.jpg)
+![Migratory Birds]({{ site.url }}/images/migratory-birds.jpg)
 
 Have you ever noticed that the buds sprout new leaves in the spring and the leaves fall in the late autumn? Or have you noticed that the birds come when the weather gets warmer and fly away when it turns colder? All these phenomena are the cyclic reactions of animals and plants in the action of surviving the environment, the study of which we call it "phenology." One important part of phenology is related to the annual cycle of migratory birds. As biologist Rubenstein put it, “ bird migration, breeding, and nesting are timed every spring to coincide with the peak availability of critical food sources in a delicate synchronization that occurs across large latitudinal gradients and diverse habitats. This synchrony between birds and key resources helps to ensure that birds survive migration and successfully reproduce." 
 
