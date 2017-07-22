@@ -5,7 +5,7 @@ publish: true
 published: true
 ---
 
-{% include image.html {{ site.url }}/images/snow-gees.jpg description="A giant flock of lesser snow geese departs from a frozen marsh during spring migration." %}
+{% include image.html url="/images/snow-gees.jpg" description="A giant flock of lesser snow geese departs from a frozen marsh during spring migration." %}
 
 Have you ever noticed that the buds sprout new leaves in the spring and the leaves fall in the late autumn? Or have you noticed that the birds come when the weather gets warmer and fly away when it turns colder? All these phenomena are the cyclic responses of animals and plants in the action of surviving the environment, the study of which we call it "phenology." One important part of phenology is related to the annual cycle of migratory birds. As biologist Rubenstein put it, “bird migration, breeding, and nesting are timed every spring to coincide with the peak availability of critical food sources in a delicate synchronization that occurs across large latitudinal gradients and diverse habitats. This synchrony between birds and key resources helps to ensure that birds survive migration and successfully reproduce." 
 
@@ -17,13 +17,13 @@ Dr. Sorte, together with his colleagues from the Cornell Laboratory of Ornitholo
 
 The various behavior patterns of bird populations may be explained by different mechanistic cues that trigger the migration, as mentioned in the study. For short-distance birds whose winter ranges are located in higher latitudes, they rely more on environmental cues (e.g., ecological productivity) to initiate the migration. Thus, the increased temperature due climate extremes leads to an increased level of ecological productivity in the winter territory of short-distance migrants, which triggers an earlier date of migration. However, for the long-distance birds that winter in lower latitudes, their migration is initiated by photoperiod and endogenous circannual rhymes, which makes them only suffer limited influence of climate extremes. 
 
-{% include image.html {{ site.url }}/images/migratory-birds.jpg description="Migratory Birds" %}
+{% include image.html url="/images/migratory-birds.jpg" description="Migratory Birds" %}
 
 How could these findings influence our understanding of migratory birds? It is evident that we can detect a level of flexibility and resilience from short-distance migrants as they can adjust their migration phenology to adapt to the environment. But the climate extremes may put the long-distance migrants at disadvantage as they are more constrained by the endogenous factors, which leads to the population decline. 
 
 No man is an island, as poet John Donne put it, which can also be applied to describe the relationship between mankind and the earth. The example of how climate extremes influence migratory birds warns us to act from now on to protect our environment, which benefits not only the earth, but also ourselves. 
 
-Reference
+**Reference**
 [The implications of mid-latitude climate extremes for North American migratory bird populations](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1261/full)
 
 [Avian migration phenology and global climate change](http://www.pnas.org/content/100/21/12219.full)
