@@ -5,7 +5,7 @@ publish: true
 published: true
 ---
 
-{% include image.html {{ site.url }}/images/migratory-birds.jpg description="A giant flock of lesser snow geese departs from a frozen marsh during spring migration." %}
+{% include image.html {{ site.url }}/images/snow-gees.jpg description="A giant flock of lesser snow geese departs from a frozen marsh during spring migration." %}
 
 Have you ever noticed that the buds sprout new leaves in the spring and the leaves fall in the late autumn? Or have you noticed that the birds come when the weather gets warmer and fly away when it turns colder? All these phenomena are the cyclic responses of animals and plants in the action of surviving the environment, the study of which we call it "phenology." One important part of phenology is related to the annual cycle of migratory birds. As biologist Rubenstein put it, “bird migration, breeding, and nesting are timed every spring to coincide with the peak availability of critical food sources in a delicate synchronization that occurs across large latitudinal gradients and diverse habitats. This synchrony between birds and key resources helps to ensure that birds survive migration and successfully reproduce." 
 
@@ -23,3 +23,11 @@ How could these findings influence our understanding of migratory birds? It is e
 
 No man is an island, as poet John Donne put it, which can also be applied to describe the relationship between mankind and the earth. The example of how climate extremes influence migratory birds warns us to act from now on to protect our environment, which benefits not only the earth, but also ourselves. 
 
+Reference
+[The implications of mid-latitude climate extremes for North American migratory bird populations](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1261/full)
+
+[Avian migration phenology and global climate change](http://www.pnas.org/content/100/21/12219.full)
+
+[Migratory Bird Phenology in A Changing Climate](http://wildlife.org/migratory-bird-phenology-in-a-changing-climate/)
+
+[Climate change and population declines in a long-distance migratory bird](http://faculty.jsd.claremont.edu/emorhardt/159/pdfs/2007/1_25_07.pdf)
