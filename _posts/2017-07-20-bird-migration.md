@@ -24,6 +24,7 @@ How could these findings influence our understanding of migratory birds? It is e
 No man is an island, as poet John Donne put it, which can also be applied to describe the relationship between mankind and the earth. The example of how climate extremes influence migratory birds warns us to act from now on to protect our environment, which benefits not only the earth, but also ourselves. 
 
 **Reference**
+
 [The implications of mid-latitude climate extremes for North American migratory bird populations](http://onlinelibrary.wiley.com/doi/10.1002/ecs2.1261/full)
 
 [Avian migration phenology and global climate change](http://www.pnas.org/content/100/21/12219.full)
