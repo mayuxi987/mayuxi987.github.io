@@ -21,7 +21,7 @@ The various behavior patterns of bird populations may be explained by different 
 
 How could these findings influence our understanding of migratory birds? It is evident that we can detect a level of flexibility and resilience from short-distance migrants as they can adjust their migration phenology to adapt to the environment. But the climate extremes may put the [long-distance migrants at disadvantage](http://www.pnas.org/content/100/21/12219.full ) as they are more constrained by the endogenous factors, which leads to the population decline. 
 
-No man is an island, as poet John Donne put it, which can also be applied to describe the relationship between mankind and the earth. The example of how climate extremes influence migratory birds warns us to act from now on to protect our environment, which benefits not only the earth, but also ourselves. 
+No man is an island, as poet John Donne put it, which can also be applied to describe the relationship between mankind and the earth. Under the context of global warm and increased climate extremes, the example of how climate extremes influence migratory birds warns us to act from now on to protect our environment, which benefits not only the earth, but also ourselves. 
 
 **Reference**
 
