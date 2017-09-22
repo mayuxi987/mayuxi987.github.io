@@ -51,3 +51,11 @@ published: true
 
 - 利用subset()和duplicate()实现matrix之间的数据选择
 - 比较两个vector之间是否存在相同的值，利用 %in% operator，返回逻辑值
+
+**09/21/2017 在辗转求索于一个最优的信息管理系统和文献引文管理系统中，遇见了Zotero**
+
+- Zotero是一款开源的帮助收集、整理和分享信息的开源独立软件（standalone desktop application)，因其开源特性，故也有很多插件与之相配套。
+- 在与Mendley、Refworks以及Noteexpress比较之后，选择Zotero原因如下：
+	- Mendely作为自带pdf阅读器功能，却变得无比繁重，尤其是在加入同步这一功能后，打开速度之慢让人不免焦躁。
+   - Refworks没有desktop application版本，且有时候归类时容易陷入繁琐的境地，且回国后因为网速和墙的限制仍然不是很便捷。
+   - Zotero最强大的在于web translator功能，能够自行识别网站的信息并进行相应的归类，大大扩展了信息管理的范围，而不只局限于文献；且与各种插件搭配使用，最大限度地方便了操作。
