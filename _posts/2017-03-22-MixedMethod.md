@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to conduct a mixed-method (Stage1)
-published: true
+published: false
 ---
 
 **Title:**
